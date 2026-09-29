@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COSMOS AI — Mars Mission Planner
 **Theoretical Mars Mission Simulation Framework & Working Prototype**
 
@@ -109,3 +110,6 @@ Run the full automated test suite:
 ```powershell
 python -m unittest discover -s tests -p "test_*.py"
 ```
+=======
+# Mars-Mission-planner-COSMOS-AI-
+>>>>>>> bbcdb30573724e98dbbe1b54ee1246d6b4378810
