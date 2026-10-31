@@ -296,5 +296,9 @@ python -m unittest discover -s tests -p "test_*.py"
 10. **NASA Mars Climate Orbiter Mishap Investigation Board (1999)** — *Phase I Report on Metric/Imperial Unit Discrepancy*.
 11. **Cano, J. et al.** — *ExoMars Mission Analysis and Design: Trajectory and Delta-v Budgeting*, ESA/NTRS.
 
+## Contributors
+- Swayangjeet ([@ByteBySway](https://github.com/ByteBySway))
+- [@silvia0300](https://github.com/silvia0300)
+
 ---
 *Created for the COSMOS AI Mars Mission Planner Team.*
